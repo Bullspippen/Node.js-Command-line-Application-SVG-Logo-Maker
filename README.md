@@ -25,4 +25,4 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
-Check out this Link to the Chrome Extension: (https://drive.google.com/file/d/1tm-Z-nPiqvevwXfHBGUEVFp3L-yKVFNH/view)
+Check out this Link to the Chrome Extension: [SVG Logo Maker](https://drive.google.com/file/d/1tm-Z-nPiqvevwXfHBGUEVFp3L-yKVFNH/view)
